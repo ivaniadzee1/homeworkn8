@@ -1,0 +1,56 @@
+@media (width > 1440px) {
+    .main {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        
+    }
+    body {
+        background: var(--Very-Light-blue, #ECF2FF);
+    }
+    .box1 {
+        width: 368px;
+        height: 512px;
+        border-radius: 32px;
+
+    }
+    .box2 {
+        height: 512px;
+        border-radius: 32px;
+    }
+    .div1{
+        margin-top: 32px;
+        font-size: 24px;
+    }
+    .your {
+        margin-top: 319px;
+        font-size: 18px;
+    }
+    .gt {
+        margin-top: 263px;
+        font-size: 32px;
+        margin-left: 145px;
+    }
+    .blue {
+        margin-top: 35px;
+        margin-left: 84px;
+        width: 200px;
+        height: 200px;
+    }
+    .sy {
+        font-size: 24px;
+    }
+    .colorr {
+        font-size: 18px;
+    }
+    .colorm {
+        font-size: 18px;
+    }
+    .colorv {
+        font-size: 18px
+    }
+    .colorv2 {
+        font-size: 18px;
+    }
+}
